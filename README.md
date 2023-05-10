@@ -36,7 +36,7 @@ Here is a list of what I publish on these platforms:
     - 微任务队列（microtask queue）→计时器队列（timer queue）→I/O 队列（I/O queue）→检查队列（check queue）→关闭队列（close queue）
     - 事件循环的开始、结束以及队列之间都会执行微任务队列，另外
     - 计时器队列/检查队列每执行完一次回调函数之后会执行微任务队列
-- `util.promisify()` 函数
+- [`util.promisify()` 函数](https://juejin.cn/post/7216594811423539257)
   - 将基于回调的函数转换为基于 Promise 的，方法是通过代理最后一个 `callback` 回调参数
 
 ## React
