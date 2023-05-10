@@ -21,7 +21,7 @@ Here is a list of what I publish on these platforms:
     - 方法内部使用了 SameValueZero 算法，与 `.indexOf()` 不同之处在于 `[NaN].includes(NaN)` 判定结果为 `true`
 - [ES6 `class X {}` 的 ES5 解释](https://juejin.cn/post/7212087651809787960)
   - 本质上就是构造函数的语法糖
-- [ES6 `class X {} extends` 的 ES5 解释](https://juejin.cn/post/7212576051166478394)
+- [ES6 `class X extends P {}` 的 ES5 解释](https://juejin.cn/post/7212576051166478394)
   - 内部执行步骤
     1. 将 `X.prototype` 的原型对象设置成 `P.prototype`
     2. 将 `X` 的原型对象设置成 `P`
