@@ -49,6 +49,7 @@ Here is a list of what I publish on these platforms:
 
 ## TypeScript
 
+- 🎥 [如何声明函数类型](https://www.bilibili.com/video/BV1TV4y1r7yH/)
 - 🎥 [如何编写声明文件?](https://www.bilibili.com/video/BV1ng4y1j7wA/)
 - 🎥 [最常用的 12 种工具类型?](https://www.bilibili.com/video/BV1gL411Y7Mf/)
 
