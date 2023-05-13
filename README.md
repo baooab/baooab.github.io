@@ -8,8 +8,9 @@ Here is a list of what I publish on these platforms:
 
 ## 周刊 & 教程
 
-- [一周前端技术分享][fe-weekly]
-- [《现代 JavaScript 教程》][javascript.info]
+- [《一周一酷》][fe-awesome]: 每周五一更，介绍前端领域的库、框架或工具
+- [《一周前端技术分享》][fe-weekly]: 每周六一更，前端技术和其他
+- [《现代 JavaScript 教程》][fe-javascript]: 翻译自 [javascript.info 站点][javascript.info]
 
 ## JavaScript
 
@@ -49,7 +50,7 @@ Here is a list of what I publish on these platforms:
 
 ## TypeScript
 
-- 🎥 [如何声明函数类型](https://www.bilibili.com/video/BV1TV4y1r7yH/)
+- 🎥 [如何声明函数类型?](https://www.bilibili.com/video/BV1TV4y1r7yH/)
 - 🎥 [如何编写声明文件?](https://www.bilibili.com/video/BV1ng4y1j7wA/)
 - 🎥 [最常用的 12 种工具类型?](https://www.bilibili.com/video/BV1gL411Y7Mf/)
 
@@ -66,4 +67,6 @@ Here is a list of what I publish on these platforms:
 [yuque]: https://www.yuque.com/zhangbao
 [bilibili]: https://space.bilibili.com/629205276
 [fe-weekly]: https://www.yuque.com/zhangbao/weekly
-[javascript.info]: https://www.yuque.com/zhangbao/javascript
+[fe-awesome]: https://www.yuque.com/zhangbao/awesome
+[fe-javascript]: https://www.yuque.com/zhangbao/javascript
+[javascript.info]: https://javascript.info/
