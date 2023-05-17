@@ -8,8 +8,8 @@ Here is a list of what I publish on these platforms:
 
 ## 周刊 & 教程
 
-- [《一周一酷》][fe-awesome]: 每周五一更，介绍前端领域的库、框架或工具
-- [《一周前端技术分享》][fe-weekly]: 每周六一更，前端技术和其他
+- [《一周一库》][fe-awesome]: 每周二更新，介绍前端领域的库、框架或工具
+- [《一周前端技术分享》][fe-weekly]: 每周一更新，前端技术和其他
 - [《现代 JavaScript 教程》][fe-javascript]: 翻译自 [javascript.info 站点][javascript.info]
 
 ## JavaScript
@@ -56,6 +56,7 @@ Here is a list of what I publish on these platforms:
 
 ## 其他
 
+- 🎥 [网页开发技巧：移除网页图片的默认拖拽效果](https://www.bilibili.com/video/BV13L41167fe/)
 - 🎥 [VS Code 中 5 个最常用的快捷键](https://www.bilibili.com/video/BV19a4y1M7aD/)
 - 🎥 [VS Code 中使用 Live Server 插件实现本地网页实时预览](https://www.bilibili.com/video/BV1oa4y1M7pS/)
 - 🎥 [Emmet 教程之 HTML 篇：快速构建你的HTML网页代码](https://www.bilibili.com/video/BV1HN411P7pH/)
