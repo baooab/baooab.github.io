@@ -84,6 +84,20 @@ Here is a list of what I publish on these platforms:
 - 🎥 [Emmet 教程之 HTML 篇：快速构建你的HTML网页代码](https://www.bilibili.com/video/BV1HN411P7pH/)
 - 🎥 [Emmet 教程之 CSS 篇：快速书写网页的 CSS 代码](https://www.bilibili.com/video/BV1684y1T7Bn/)
 
+---
+
+## 常用代码片段
+
+```js
+// 获取一个对象上所有的属性键。Symbol 和字符串，枚举和不可枚举
+function getOwn(obj) {
+    return Object.getOwnPropertyNames(obj).concat(Object.getOwnPropertySymbols(obj))
+}
+
+// 判定一个对象上是否包含指定属性键
+Object.hasOwn(obj, propKey)
+```
+
 <!-- divider -->
 
 [juejin]: https://juejin.cn/user/1363050148666824
